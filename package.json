@@ -1,0 +1,26 @@
+{
+  "name": "my-github-endpoint-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/my-github-endpoint-playlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/my-github-endpoint-playlist/issues"
+  },
+  "homepage": "https://github.com/louiscklaw/my-github-endpoint-playlist#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
